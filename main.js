@@ -2,4 +2,4 @@ function trocarImagem() {
   sem-peao.src = "peao.branco.svg";
 }
 
-document.getElementById("peaobranco1").addEventListener("click", trocarImagem);
+document.getElementById("peao-branco1").addEventListener("click", trocarImagem);
