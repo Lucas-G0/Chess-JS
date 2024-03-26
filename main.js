@@ -1,4 +1,4 @@
-const minhaImagem = document.getElementById("peao.branco");
+const minhaImagem = document.getElementById("peao-branco1");
 
 function trocarImagem() {
   sem-peao.src = "peao.branco.svg";
